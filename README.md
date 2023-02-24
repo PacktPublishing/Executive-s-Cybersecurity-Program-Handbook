@@ -37,3 +37,8 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Jason Brown's**
 passions are in data privacy and cybersecurity. Brown has spent his career working with small businesses to large international companies, developing robust data privacy and cybersecurity programs. Brown has held titles such as Chief Information Security Officer, virtual Chief Information Security Officer, and Data Privacy Officer.
 Brown has obtained many industry-leading certifications including ISC2’s CISSP, ISACA’s CDPSE and COBIT, ITIL, and holds a Bachelor of Science degree from Central Michigan University and a Master of Science degree from Ferris State University.
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781804619230">https://packt.link/free-ebook/9781804619230 </a> </p>
